@@ -1,6 +1,7 @@
 ### Hi there, I'm Dênis de Jesus 👋
 
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenisJesusBatista)](https://git.io/streak-stats)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <!--
 **DenisJesusBatista/DenisJesusBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenisJesusBatista)](https://git.io/streak-stats)
 
 
 -->
