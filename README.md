@@ -1,5 +1,12 @@
 ### Hi there, I'm Dênis de Jesus 👋
 
+## Languages and Tools
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=Net&logoColor=green)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=green)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=green)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android&logoColor=green)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=green)
+
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=radical)
 - ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Contact Me!</b> 😊</em>
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/dênis-jesus-a15a9a35/)](https://www.linkedin.com/in/dênis-jesus-a15a9a35) 
