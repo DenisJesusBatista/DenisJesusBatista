@@ -1,6 +1,9 @@
 ### Hi there, I'm Dênis de Jesus 👋
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=radical)
+- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Contact Me!</b> 😊</em>
+- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/dênis-jesus-a15a9a35/)](https://www.linkedin.com/in/dênis-jesus-a15a9a35) 
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dênis-jesus-a15a9a35/@gmail.com)](mailto:dênis-jesus-a15a9a35/@gmail.com)
 
 
 <!--
