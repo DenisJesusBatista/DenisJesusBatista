@@ -2,9 +2,6 @@
 
 ## Languages and Tools
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=Net&logoColor=green)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=green)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=green)
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android&logoColor=green)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=green)
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=radical)
