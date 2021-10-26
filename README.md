@@ -21,8 +21,11 @@
 
 ## Languages and Tools
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=Net&logoColor=green)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=green)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=MySQL&logoColor=green)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Contact Me!</b> 😊</em>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/dênis-jesus-a15a9a35/)](https://www.linkedin.com/in/dênis-jesus-a15a9a35) 
