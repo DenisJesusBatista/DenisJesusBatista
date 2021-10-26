@@ -2,6 +2,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/DenisJesusBatista">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisJesusBatista&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 ### Tools and environments
