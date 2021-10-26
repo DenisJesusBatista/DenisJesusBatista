@@ -1,7 +1,5 @@
 ### Hi there, I'm Dênis de Jesus 👋
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=radical)
 <div>
   <a href="https://github.com/DenisJesusBatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
