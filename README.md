@@ -20,6 +20,7 @@
 </a>
 
 ## Languages and Tools
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=Net&logoColor=green)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=green)
 
