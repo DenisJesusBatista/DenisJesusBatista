@@ -3,6 +3,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=radical)
 
+
+### Tools and environments
+
+<!-- GIT -->
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<!-- NPM -->
+<a href="#">
+      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<!-- YARN -->
+<a href="#">
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+</a>
+
 ## Languages and Tools
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=Net&logoColor=green)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=green)
