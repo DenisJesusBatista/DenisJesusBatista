@@ -1,15 +1,17 @@
 ### Hi there, I'm Dênis de Jesus 👋
 
+Momento de evolução da minha carreira como dev. Sou um entusiasta da tecnologia, apredendo NodeJS , JavaScrip & Typescript.
+
+- 🔭 Estou trabalhando em um equipe de desenvolvimento com demandas de sustentação e evolutivas. 💜
+- 🌱 Atualmente estou aprendendo NodeJS, JavaScrip, e Typescript;
+
 <div>
   <a href="https://github.com/DenisJesusBatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisJesusBatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisJesusBatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  Momento de evolução da minha carreira como dev. Sou um entusiasta da tecnologia, apredendo NodeJS , JavaScrip & Typescript.
-
-- 🔭 Estou trabalhando em um equipe de desenvolvimento com demandas de sustentação e evolutivas. 💜
-- 🌱 Atualmente estou aprendendo NodeJS, JavaScrip, e Typescript;
+  
 
 ### Tools and environments
 
