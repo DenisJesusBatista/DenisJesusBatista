@@ -6,6 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisJesusBatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  Momento de evolução da minha carreira como dev. Sou um entusiasta da tecnologia, apredendo NodeJS , JavaScrip & Typescript.
+
+- 🔭 Estou trabalhando em um equipe de desenvolvimento com demandas de sustentação e evolutivas. 💜
+- 🌱 Atualmente estou aprendendo NodeJS, JavaScrip, e Typescript;
 
 ### Tools and environments
 
