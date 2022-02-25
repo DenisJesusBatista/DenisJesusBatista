@@ -3,7 +3,7 @@
 Momento de evolução da minha carreira como dev. Sou um entusiasta da tecnologia, apredendo NodeJS , JavaScrip & Typescript.
 
 - 🔭 Estou trabalhando em um equipe de desenvolvimento com demandas de sustentação e evolutivas. 💜
-- 🌱 Atualmente estou aprendendo NodeJS, JavaScrip, e Typescript;
+- 🌱 Atualmente estou aprendendo NodeJS, JavaScrip, e Typescript.
 
 <div>
   <a href="https://github.com/DenisJesusBatista">
